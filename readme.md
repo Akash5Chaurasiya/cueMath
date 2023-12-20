@@ -17,8 +17,9 @@ src/
 
 
 ## Images
-![Image 1](./src/assets/Screenshot_2023-12-20-16-27-16-80_6012fa4d4ddec268fc5c7112cbb265e7.jpg)
-![Image 2](./src/assets/Screenshot_2023-12-20-16-27-21-56_6012fa4d4ddec268fc5c7112cbb265e7.jpg)
+![Image 1](https://drive.google.com/uc?export=download&id=1G-dvBdjURjJr-1M2f9kQlWbBykqSYYd2)
+![Image 2](https://drive.google.com/uc?export=download&id=1G39qHJ7HZk_FEX14Yt4jJ2U5j0REb9KC)
+
 
 
 
