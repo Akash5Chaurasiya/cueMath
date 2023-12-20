@@ -1,0 +1,53 @@
+# Lottie Project
+
+## Introduction
+The core functionality revolves around the seamless integration of Lottie animations into various components and screens. Users can interact with a variety of features that showcase the versatility and creativity that Lottie animations bring to the user interface.
+
+## Project Type
+Frontend | Backend | Fullstack
+
+## Directory Structure
+src/
+├─ components/
+├─ screens/
+
+## Video Walkthrough of the project
+Attach a very short video walkthough of all of the features [ 1 - 3 minutes ]
+
+## Video Walkthrough of the codebase
+Attach a very short video walkthough of codebase [ 1 - 5 minutes ]
+
+## Features
+List out the key features of your application.
+
+- Authentication using Async Storage
+- Worked on Lottie Assets
+
+
+## Installation & Getting started
+Detailed instructions on how to install, configure, and get the project running. For BE/FS projects, guide the reviewer how to check mongodb schema etc.
+
+```bash
+npm start ----reset-cache
+npm run android
+```
+
+
+Include screenshots as necessary.
+
+## Credentials
+Provide user credentials for autheticated pages
+
+## APIs Used
+If your application relies on external APIs, document them and include any necessary links or references.
+
+## API Endpoints
+In case of Backend Applications provide a list of your API endpoints, methods, brief descriptions, and examples of request/response.
+GET /api/items - retrieve all items
+POST /api/items - create a new item
+
+
+## Technology Stack
+List and provide a brief overview of the technologies used in the project.
+
+- React Native
